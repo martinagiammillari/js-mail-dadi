@@ -54,3 +54,32 @@
 // }
 
 //--------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Snack 4
+// Stampa il cubo dei primi N numeri,
+// dove N è un numero indicato dall’utente.
+
+
+// 1. variabile numero + prompt dove chiedo un numero 
+// 2. console.log (numero* numero * numero)
+
+//--------------------------------------------------------------------------------------
+// const numero = parseInt(prompt("inserisci un numero"));
+// console.log(numero*numero*numero);
+//--------------------------------------------------------------------------------------
