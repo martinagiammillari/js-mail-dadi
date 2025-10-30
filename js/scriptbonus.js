@@ -83,3 +83,25 @@
 // const numero = parseInt(prompt("inserisci un numero"));
 // console.log(numero*numero*numero);
 //--------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
