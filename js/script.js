@@ -43,16 +43,19 @@
 // 4.else if utentNumber < pcNumber "Mi dispiace, hai perso"
 // 5.else === "parità"
 
-const utentNumber = Math.floor(Math.random() * 6) + 1;
-const pcNumber = Math.floor(Math.random() * 6) + 1;
-console.log(utentNumber, pcNumber)
-if (utentNumber > pcNumber) {
-    console.log("Congratulazioni, hai vinto")
-}
-else if (utentNumber < pcNumber) {
-    console.log("Mi dispiace, hai perso")
-}
-else {
-    console.log("Parità")
-}
 
+//--------------------------------------------------------------------------------------
+// const utentNumber = Math.floor(Math.random() * 6) + 1;
+// const pcNumber = Math.floor(Math.random() * 6) + 1;
+// console.log(utentNumber, pcNumber)
+// if (utentNumber > pcNumber) {
+//     console.log("Congratulazioni, hai vinto")
+// }
+// else if (utentNumber < pcNumber) {
+//     console.log("Mi dispiace, hai perso")
+// }
+// else {
+//     console.log("Parità")
+// }
+
+//--------------------------------------------------------------------------------------
